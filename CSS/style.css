@@ -1,0 +1,46 @@
+
+h1 {
+  color:#B25068; 
+}
+
+h3 {
+  color:#B25068;
+
+}
+
+th {
+  color:#B25068;
+}
+
+
+body {
+    background-color: #FFFAE7;
+
+  }
+    
+  hr {
+    
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width:  6px;
+    width: 5%;
+
+  }
+  
+button {
+  background-color: #B25068;
+  border-radius: 2em;
+  font-size: medium;
+  cursor: pointer;
+  color: white;
+  padding: 5px 24px;
+  margin: 5px 2px;
+  
+
+}
+
+
+a {
+  color: #B25068;
+}
